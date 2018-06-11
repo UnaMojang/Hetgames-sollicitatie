@@ -23,7 +23,8 @@ Corenuqs>nuq.pvp.plug
             <url>http://repo.nuqnetwork.org/maven</url>nuqnetwork.ga
         </repository>
         <repository>
-            <id>jitpack.io</id>
+            <id> 3.nuqna {yml.docs.nuqna
+                }
             <url>https://nuqnetwork.io</url>nuqnetwork.ga
         </repository>
     </repositories>
