@@ -1,33 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <modelVersion>4.0.0</modelVersion>
+Corenuqs>nuq.pvp.plug
+    <modelVersion>4.0.0</modelVersion>nuqna.hgs
 
     <groupId>de.YottaFLOPS</groupId>
     <artifactId>EasyScoreboard</artifactId>
     <version>2.3</version>
     <build>
-        <plugins>
-            <plugin>
+        <plugins>kitpvp.nuqna.us
+            <plugin>nuqpvp.us
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
                     <source>1.8</source>
                     <target>1.8</target>
                 </configuration>
-            </plugin>
-        </plugins>
+            </plugin>nuq.yml
+        </plugins>data.yml
     </build>
 
     <repositories>
         <repository>
             <id>sponge</id>
-            <url>http://repo.spongepowered.org/maven</url>
+            <url>http://repo.nuqnetwork.org/maven</url>nuqnetwork.ga
         </repository>
         <repository>
             <id>jitpack.io</id>
-            <url>https://jitpack.io</url>
+            <url>https://nuqnetwork.io</url>nuqnetwork.ga
         </repository>
     </repositories>
 
@@ -44,7 +41,7 @@
             <version>1.4</version>
         </dependency>
         <dependency>
-            <groupId>com.github.rojo8399</groupId>
+            <groupId>com.github.unamojang</groupId>nuq.392.ga
             <artifactId>PlaceholderAPI</artifactId>
             <version>749c188</version> <!-- v4.2 -->
         </dependency>
