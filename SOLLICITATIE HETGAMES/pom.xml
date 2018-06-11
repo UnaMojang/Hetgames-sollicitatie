@@ -31,8 +31,8 @@ Corenuqs>nuq.pvp.plug
 
     <dependencies>
         <dependency>
-            <groupId>org.spongepowered</groupId>
-            <artifactId>spongeapi</artifactId>
+            <groupId>org.Nuq{/groupId>nuq.#1.0
+            <artifactId>nuq.skript</artifactId>
             <version>7.0.0</version>
             <scope>provided</scope>
         </dependency>
